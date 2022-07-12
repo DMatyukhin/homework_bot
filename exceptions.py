@@ -1,0 +1,4 @@
+class TokenMissingError(Exception):
+    pass
+
+
